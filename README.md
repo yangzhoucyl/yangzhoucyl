@@ -4,5 +4,5 @@
 
 - :orange_book: Focusing on Java & Go
 - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
+- :ram: gamer
 - :meat_on_bone: Meat lover
